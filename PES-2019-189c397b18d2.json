@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pes-2019-254921",
+  "private_key_id": "189c397b18d20eaa49457a8cfbd725e4662022ed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDwqHt07TX7/1vF\n3bz3KJV7wIMP5lq9N9sv4rfAOWrvdjM/T6ufI1vGaaPmm/7wz85XSaEG35owxzQj\nf/5Y+nBxDRhEtiYo5O72sks4TRVgIYlnUbLW7qCBvnQRIlrX54GDaXa2rO+vsrOD\n0GuFPCgM7kRvTTQrgdkfKip8H/peUkjoAiUSAkG2Ml4P46Bhl6mRHbV/rWdOFkL1\noJ7MQkVDW3la9ETIVE15/UbG5f2AXFwQ8/cgl3rPwHntR1RK3jtBo2eWRuBstwdI\ndhrTNSZieC855Q+Vj0F+eoEsdICyuO+NlACKy9QNvgh7JX2R8d+bjyko1yr16HZE\nxceNzHCNAgMBAAECggEAMclJMRlZz7Y2UCrdSux0cFOVSZbIMtj5WWC3zuaR/tQf\nKfvbb2KrO9Li+3ROO5diAqDS1U8w4OJ1INr7zYCR/nFNEfn0zwT9gr/D2/Pmdiq5\n+EvoiZp4Th8Od/T5giz8mCkbTBNeyqRXiu91Lu0RBAvO0I/SOSX1uwLII0GiVByf\nCLIyE4P/q7ZsJXho8PasS6kQ7Ut0ecMxPKCnHpBQSkj+JWSzEB2U9XWt8PfeGadt\nANbsFXCGiMvnYeOmnroMlpA96vnf0imPIAOp6rtGS4djCozPSIW7I14G4cp5Ii2a\nnjfdpX5T5T945w6E54n0PbuAMGVN8QTtzrYUfy3QKQKBgQD+xLTLNG9rIZT8T6mL\nHpGVXJY5wngS14ABBLrKuB1n+5am/kl8+RkmQiiOx8ML9i6NyS+qSXkTzRceSGbc\nwytbHZYTzELqzN5CyIdUmAMznETOEbz6iiwTJUfASyPO98Dt4otO/cEOOhEWY7/T\nOTx6StA2T9aVrN2Nr6CyIIO39wKBgQDx0lBIMpQGNLskbLiLvQH6B1aRe/IKFWO1\n/gD8PHx/bSFyqVlkIsCNT7kpnYVfje0uAZpwyNUkLnWK90H2j1ok0kcsE5VCUl4M\nj5b5nsFkp4E8yqgRBDFz423ZURHzikcH5wgEMKKEzkmMf0IXvy7ZESgfONF8R5dW\nB0581nzimwKBgAE4fA1FMQt4W7hhwVQzT0tB6E5aiiy875YRqbty6mEnKW+fZEa/\nAsnWI0+b0WlrQonXXu0X8QaRQv0YJ7YDEWAcYi2yGtf5J092mn9jQxCqPQInv5oL\ns25cDV30fjVtpnT9UuGMAbLJwG81ByRB7/I+DYVVGJga/ezB3Kk90qO9AoGBAJzy\nmiZxpT7t5HQ8l/4h2vGS562e2zWOMlwBElSjUU5G3wmTPjBOmdhdYNjQoqqk68YL\nRlhjEGreOG3MEqTa32+8hnLl9t7HpMDURPGYBv6z9J4nDbOVnB8SAc6k3ljJa1aG\nrN5DToeRd4zXX2cYL2i0yOySrOvTbzZnoZpGf2F3AoGBAN664aFltW/Vyy6hbTVU\nHdJD/PeMyv/vUYZj4irTNEbfKGziheKIjot1fXFhDSe56ri9qC0JY+VU2a58VPb/\nPFZDvMoQ8ONSZopqOxzdqTJrqurskdoiMfOV2jg26G/DC7DLpp2d86xENjeV23Ws\nWc6dcdFider18x+9JBRM6Aqg\n-----END PRIVATE KEY-----\n",
+  "client_email": "pes-cloud-storage@pes-2019-254921.iam.gserviceaccount.com",
+  "client_id": "104045425600906403246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pes-cloud-storage%40pes-2019-254921.iam.gserviceaccount.com"
+}

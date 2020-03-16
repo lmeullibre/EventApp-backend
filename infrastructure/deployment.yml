@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pes-backend
+spec:
+  selector:
+    matchLabels:
+      app: pes-backend
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        build: ""
+        app: pes-backend
+    spec:
+      containers:
+      - name: pes-backend
+        image: eu.gcr.io/pes-2019-254921/flask-pes-backend:latest
+        resources:
+          requests:
+            memory: "128Mi"
+            cpu: "250m"
+          limits:
+            memory: "256Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 5000
